@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 (Perfil aún en construcción. Julio 2025)
 
 <!-- Profile README for Adrian Bernardo -->
 
