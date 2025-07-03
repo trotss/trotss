@@ -14,7 +14,7 @@
 
 - 🎓 Formación: Ingeniero de Telecomunicaciones por la Universidad de Valladolid
 - 💼 Actualmente en: -
-- 🌱 Aprendiendo: Automatizaciones IA
+- 🌱 Aprendiendo: Automatizaciones IA, desarrollo web
 - 🔍 Intereses: I+D, redes, ciberseguridad, IA, Data...
 - 🧰 Herramientas favoritas: Python, Docker, Git...
 
