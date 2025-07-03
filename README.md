@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 👋, soy Adrián Bernardo</h1>
 <p align="center">
-  <img src="https://trots.es/cv/abbbrou.jpg" width="100" /><br>
+<!--  <img src="https://trots.es/cv/abbbrou.jpg" width="100" /><br> -->
   <em>Ingeniero en Telecomunicaciones | Apasionado por la tecnología, la investigación y el aprendizaje continuo.</em>
 </p>
 
