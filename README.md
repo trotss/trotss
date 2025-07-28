@@ -1,4 +1,4 @@
-## Hi there 👋 (Perfil aún en construcción. Julio 2025)
+## Hi there 👋 
 
 <!-- Profile README for Adrian Bernardo -->
 
@@ -13,7 +13,7 @@
 ## 🧠 Sobre mí
 
 - 🎓 Formación: Ingeniero de Telecomunicaciones por la Universidad de Valladolid
-- 💼 Actualmente en: -
+- 💼 Actualmente en: Attlantic - Universidade de Vigo: Investigador (IA)
 - 🌱 Aprendiendo: Automatizaciones IA, desarrollo web
 - 🔍 Intereses: I+D, redes, ciberseguridad, IA, Data...
 - 🧰 Herramientas favoritas: Python, Docker, Git...
@@ -34,26 +34,6 @@
   <!-- Añade más según tus conocimientos -->
 </div>
 
----
-<!--
-## 📸 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías | Imagen |
-|---------|-------------|-------------|--------|
-| `Smart Parking` | Sistema IoT para detectar plazas libres | LoRa, TTN, Bluetooth | ![img](link_a_foto_o_gif) |
-| `Reconstrucción de señal` | Procesado digital de audio en FPGA | VHDL, Vivado | ![img](link_a_foto) |
-| `Proxy Flask` | Autenticación con JWT a servidor local | Flask, Apache | ![img](link) |
-
----
--->
-<!--
-## 🗂️ Repos públicos recientes
-
-<!-- Esto se puede automatizar con GitHub Actions, pero puedes ponerlo manual 
-- 🔧 [`sample-iot-lora`](https://github.com/adrianbernardo/sample-iot-lora): Demo de envío LoRa con TTN
-- 🧪 [`fpga-signal-reconstruction`](https://github.com/adrianbernardo/fpga-signal-reconstruction): Reconstrucción de señales de audio
-- 🔐 [`flask-auth-proxy`](https://github.com/adrianbernardo/flask-auth-proxy): Proxy de autenticación entre apps locales
--->
 ---
 
 ## 📈 Stats
