@@ -55,6 +55,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trotss&show_icons=true&theme=radical" height="150"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trotss&layout=compact&theme=radical" height="150"/> -->
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trotss&theme=radical" height="3000" />
 </p>
 
 ---
