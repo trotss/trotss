@@ -18,6 +18,25 @@
 </p>
 
 ---
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="URL_MAPA_1" target="_blank">
+        <img src="web.trots.es/vigo.html" alt="Mapa 1" width="100%" />
+      </a>
+      <br>
+      <sub>Mapa 1: Vigo y alrededores</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="URL_MAPA_2" target="_blank">
+        <img src="web.trots.es/valladolid.html" alt="Mapa 2" width="100%" />
+      </a>
+      <br>
+      <sub>Mapa 2: Valladolid</sub>
+    </td>
+  </tr>
+</table>
+---
 
 ## Sobre mí
 
