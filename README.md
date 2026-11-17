@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="public/vigo.png" alt="Mapa de Vigo" width="50%" />
-  <img src="public/valladolid.png" alt="Mapa de Valladolid" width="49%" />
+  <img src="public/valladolid.png" alt="Mapa de Valladolid" width="48%" />
 </p>
 
 ---
