@@ -19,31 +19,10 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="web.trots.es/vigo.html" target="_blank">
-        <img src="public/vigo.png" alt="Mapa interactivo de Vigo" width="100%" />
-      </a>
-      <br><br>
-      <strong>Vigo</strong><br>
-    
-      <a href="web.trots.es/vigo.html" target="_blank">
-        <img src="https://img.shields.io/badge/Abrir_mapa-Vigo-0A66C2?style=for-the-badge&logo=leaflet&logoColor=white" alt="Abrir mapa de Vigo" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="web.trots.es/valladolid.html" target="_blank">
-        <img src="public/valladolid.png" alt="Mapa interactivo de Valladolid" width="100%" />
-      </a>
-      <br><br>
-      <strong>Valladolid</strong><br>
-      <a href="web.trots.es/valladolid.html" target="_blank">
-        <img src="https://img.shields.io/badge/Abrir_mapa-Valladolid-8E44AD?style=for-the-badge&logo=leaflet&logoColor=white" alt="Abrir mapa de Valladolid" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="public/vigo.png" alt="Mapa de Vigo" width="49%" />
+  <img src="public/valladolid.png" alt="Mapa de Valladolid" width="49%" />
+</p>
 
 ---
 
