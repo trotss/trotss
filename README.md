@@ -18,24 +18,33 @@
 </p>
 
 ---
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="vigo.html" target="_blank">
-        <img src="vigo.html" alt="Mapa 1" width="100%" />
+      <a href="web.trots.es/vigo.html" target="_blank">
+        <img src="public/vigo.png" alt="Mapa interactivo de Vigo" width="100%" />
       </a>
-      <br>
-      <sub>Mapa 1: Vigo y alrededores</sub>
+      <br><br>
+      <strong>Vigo</strong><br>
+    
+      <a href="web.trots.es/vigo.html" target="_blank">
+        <img src="https://img.shields.io/badge/Abrir_mapa-Vigo-0A66C2?style=for-the-badge&logo=leaflet&logoColor=white" alt="Abrir mapa de Vigo" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <a href="valladolid.html" target="_blank">
-        <img src="valladolid.html" alt="Mapa 2" width="100%" />
+      <a href="web.trots.es/valladolid.html" target="_blank">
+        <img src="public/valladolid.png" alt="Mapa interactivo de Valladolid" width="100%" />
       </a>
-      <br>
-      <sub>Mapa 2: Valladolid</sub>
+      <br><br>
+      <strong>Valladolid</strong><br>
+      <a href="web.trots.es/valladolid.html" target="_blank">
+        <img src="https://img.shields.io/badge/Abrir_mapa-Valladolid-8E44AD?style=for-the-badge&logo=leaflet&logoColor=white" alt="Abrir mapa de Valladolid" />
+      </a>
     </td>
   </tr>
 </table>
+
 ---
 
 ## Sobre mí
