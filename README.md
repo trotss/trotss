@@ -20,8 +20,8 @@
 ---
 
 <p align="center">
-  <img src="public/vigo.png" alt="Mapa de Vigo" width="49%" />
-  <img src="public/valladolid.png" alt="Mapa de Valladolid" width="49%" />
+  <img src="public/vigo.png" alt="Mapa de Vigo" width="53%" />
+  <img src="public/valladolid.png" alt="Mapa de Valladolid" width="46%" />
 </p>
 
 ---
